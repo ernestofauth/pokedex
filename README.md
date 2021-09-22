@@ -1,4 +1,4 @@
-<h1 align="center"> POKEDEX </h1>
+<h1 align="center">:baby_chick: POKEDEX :baby_chick:</h1>
 
 
 <h3 align="center"> INTEGRANTES DO GRUPO </h1>
